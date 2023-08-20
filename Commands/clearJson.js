@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs"); // this will clear the raid members frm the json file (might not work)
 const path = require("path");
 
 module.exports = {
