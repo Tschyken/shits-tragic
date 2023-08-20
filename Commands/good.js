@@ -1,4 +1,4 @@
-const makeEmbed = require("../Functions/embed");
+const makeEmbed = require("../Functions/embed"); // NOT IN USE
 const { Collection, MessageEmbed } = require("discord.js");
 const noblox = require("noblox.js");
 const axios = require("axios");
